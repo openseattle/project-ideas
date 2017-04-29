@@ -1,5 +1,5 @@
 # Open Seattle Project Ideas 
-Want to get involved in an Open Seattle project? In addition to browsing our current [active projects](https://github.com/openseattle), you can also check out the list of open project ideas. 
+Want to get involved in an Open Seattle project? In addition to browsing our current [active projects](https://github.com/openseattle), you can also check out [our list of project ideas](https://github.com/openseattle/project-ideas/issues). 
 
 These are project ideas submitted by members that might not have a leader yet (maybe it's you!) or that need to be fleshed out a bit more to get started. 
 
@@ -26,7 +26,6 @@ Once you've added a project idea, we'll assign you as the issue owner. We'll the
 
 ## Help! I'm Not Very Technical and This Seems Hard 
 No worries! We promise it's not, and we'll be happy to help you submit your project idea. Email us at hi@openseattle.org or ping the #getinvolved channel in the Open Seattle Slack and we can help.  
-
 
 *Major props to [Open Austin](https://github.com/open-austin) for this repo idea!*
 
