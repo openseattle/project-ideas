@@ -27,6 +27,8 @@ Once you've added a project idea, we'll assign you as the issue owner. We'll the
 ## Help! I'm Not Very Technical and This Seems Hard 
 No worries! We promise it's not, and we'll be happy to help you submit your project idea. Email us at hi@openseattle.org or ping the #getinvolved channel in the Open Seattle Slack and we can help.  
 
+***
+
 *Major props to [Open Austin](https://github.com/open-austin) for this repo idea!*
 
 
